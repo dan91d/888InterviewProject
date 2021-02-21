@@ -11,6 +11,7 @@
     <!-- Set this to true if you enable server-side prerendering -->
     <BuildServerSideRenderer>false</BuildServerSideRenderer>
     <RootNamespace>_888InterviewProject</RootNamespace>
+    <UserSecretsId>6cf88427-fb85-4a12-b39b-8e0b187bc054</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
