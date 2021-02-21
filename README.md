@@ -10,7 +10,7 @@ This solution is build with ASPN.NET Core 3 API on the backend and Angular 8 on 
 
 ## How To Run
 
-* ** Open solution in Visual Studio 2019.
-* ** Build the project.
-* ** Run the application.
+* Open the solution in Visual Studio 2019.
+* Build the project.
+* Run the application.
   * If you getting an error that says "python not found": Install all the required tools and configurations using Microsoft's [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) by running `npm install -g windows-build-tools` from an elevated PowerShell (run as Administrator).
