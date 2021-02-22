@@ -1,10 +1,13 @@
-﻿# 888 Interview Project - Daniel Dinca
+# 888 Interview Project - Daniel Dinca
 
-This solution is build with ASPN.NET Core 3 API on the backend and Angular 8 on the frontend.
+This solution is build with ASP.NET Core 3.1 API on the backend and Angular 8 on the frontend.  
+
+If you want to see a preview of the application, I have published it in Azure:  
+https://888interviewproject.azurewebsites.net
 
 ## Prerequirements
 
-* [.NET Core 3.0 SDK](https://dot.net/core)
+* [.NET Core 3.1 SDK](https://dot.net/core)
 * [Visual Studio 2019](https://visualstudio.microsoft.com/vs)
 * [Node.js](https://nodejs.org/)
 
